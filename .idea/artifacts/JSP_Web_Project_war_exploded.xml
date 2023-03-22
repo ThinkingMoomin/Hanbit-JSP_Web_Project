@@ -7,6 +7,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="JSP_Web_Project" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="apache.taglibs.standard.jstlel" />
+        </element>
       </element>
     </root>
   </artifact>
