@@ -9,6 +9,8 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="apache.taglibs.standard.jstlel" />
+          <element id="library" level="project" name="h2database.h2" />
+          <element id="library" level="project" name="commons.beanutils" />
         </element>
       </element>
     </root>

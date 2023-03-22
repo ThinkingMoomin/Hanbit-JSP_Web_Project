@@ -21,5 +21,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="jsp-api" level="project" />
     <orderEntry type="library" name="apache.taglibs.standard.jstlel" level="project" />
+    <orderEntry type="library" name="h2database.h2" level="project" />
+    <orderEntry type="library" name="commons.beanutils" level="project" />
+
   </component>
 </module>
